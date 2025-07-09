@@ -1,0 +1,11 @@
+estado,municipio,data_aplicacao,dose,fabricante,total_doses
+SP,São Paulo,2021-03-01,1ª Dose,Butantan,10000
+RJ,Rio de Janeiro,2021-03-01,1ª Dose,Fiocruz,8000
+MG,Belo Horizonte,2021-03-01,1ª Dose,Pfizer,6000
+RS,Porto Alegre,2021-03-01,1ª Dose,Moderna,4000
+BA,Salvador,2021-03-01,1ª Dose,Janssen,2000
+SP,São Paulo,2021-03-02,2ª Dose,Butantan,9000
+RJ,Rio de Janeiro,2021-03-02,2ª Dose,Fiocruz,7000
+MG,Belo Horizonte,2021-03-02,2ª Dose,Pfizer,5000
+RS,Porto Alegre,2021-03-02,2ª Dose,Moderna,3000
+BA,Salvador,2021-03-02,2ª Dose,Janssen,1000
